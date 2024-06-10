@@ -35,3 +35,14 @@
 - Architectures that are still on the academic side: Capsule Networks, Transformers, Graph Neural Networks, siamese networks, etc.
 
 - Attention models and Transformers
+
+## Frameworks and tools to build deep learning models
+
+- PyTorch
+- TensorFlow and Keras
+
+Both based on Python and C++, the course focus.
+
+Alternatives are: MxNet, JAX, and Open Neural Network Exchange (ONNX).
+
+Libraries to mathematic oprations in C++ to train Deep Learning models: Armadillo, and MLpack.
