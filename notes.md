@@ -19,3 +19,19 @@
 - In 2020, the first Large Language Model, GPT-3, was released, which is a type of Transformer that can generate human-like text, with billions of parameters, resulting in impressive results on language generation.
 
 - In 2023 a web interface was created to interact with GPT-3, called "Talk to Transformer", which allows users to generate text by typing a prompt.
+
+## Common Deep Learning Architectures
+
+- Dense Neural Networks (DNN)
+
+- Convolutional Neural Networks (CNN)
+
+- Recurrent Neural Networks (RNN)
+
+- Autoenconders
+
+- Generative Adversarial Networks (GANs)
+
+- Architectures that are still on the academic side: Capsule Networks, Transformers, Graph Neural Networks, siamese networks, etc.
+
+- Attention models and Transformers
