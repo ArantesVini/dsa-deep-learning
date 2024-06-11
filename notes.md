@@ -46,3 +46,13 @@ Both based on Python and C++, the course focus.
 Alternatives are: MxNet, JAX, and Open Neural Network Exchange (ONNX).
 
 Libraries to mathematic oprations in C++ to train Deep Learning models: Armadillo, and MLpack.
+
+## Challenges and limitations of Deep Learning
+
+- Requires massive datasets
+- Complexity and training time
+- Interpretability (it's not a _blackbox_, just a lot of math)
+- Bias on training data
+- Hardware requirements
+- Efficiency for real-time implementation
+- Dependence on big architectures
