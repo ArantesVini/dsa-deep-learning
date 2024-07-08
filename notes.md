@@ -138,3 +138,10 @@ Libraries to mathematic oprations in C++ to train Deep Learning models: Armadill
   - VGGNet, ResNet, Inception, etc
 - NLP:
   - BERT, GPT, Llama, T5, etc
+
+### Use cases
+
+- To use as they are for inference in similar tasks as the ones they were trained
+- Can bw used as a initila point to fine-tune for specific tasks, as object recognition in new datasets, or text comprehension in a specific domain
+- Are the base for a lot of last generation IA systems, offering a advanced initial point to develop new models
+- Can be used in fields where the data is scarce, or where the training from scratch is not feasible
