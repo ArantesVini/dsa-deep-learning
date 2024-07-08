@@ -120,3 +120,21 @@ Libraries to mathematic oprations in C++ to train Deep Learning models: Armadill
 - Besides NLP, the attention mechanism and transformer architecture are being used in other areas, like computer vision and speech recognition
 - The attention mechanism allows the model to focus on specific input parts, similar to how humans have a selective attention
 - Instead of deal with all the input equally, the attention mechanism learns to distribute the focus on the most relevant parts of the input to the task
+
+## Transfer learning and pre-trained models
+
+- Transformers require a lot of data to train, and it is expensive to train from scratch
+- Transfer learning is a machine learning technique that allows a model trained on a specific task to be reused as a initial point on a different (but related) task
+- Instead of learning from the scratch, the model can use the knowledge (weights) learned from a big and relevant dataset
+
+### Main advantages of transfer learning
+
+- Significantly reduces the training time and computer resources needed
+- Enhances the model performance for tasks with small datasets
+
+### Examples
+
+- Computer vision:
+  - VGGNet, ResNet, Inception, etc
+- NLP:
+  - BERT, GPT, Llama, T5, etc
