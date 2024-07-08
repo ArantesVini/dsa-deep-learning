@@ -117,3 +117,6 @@ Libraries to mathematic oprations in C++ to train Deep Learning models: Armadill
   ![transformer architecture](images/image.png)
 - Vaswan et al. (2017) - Attention is all you need
 - It is an architecture which depends entirely on attention mechanisms, without recurrent or convolutional layers
+- Besides NLP, the attention mechanism and transformer architecture are being used in other areas, like computer vision and speech recognition
+- The attention mechanism allows the model to focus on specific input parts, similar to how humans have a selective attention
+- Instead of deal with all the input equally, the attention mechanism learns to distribute the focus on the most relevant parts of the input to the task
