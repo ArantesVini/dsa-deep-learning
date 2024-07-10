@@ -145,3 +145,5 @@ Libraries to mathematic oprations in C++ to train Deep Learning models: Armadill
 - Can bw used as a initila point to fine-tune for specific tasks, as object recognition in new datasets, or text comprehension in a specific domain
 - Are the base for a lot of last generation IA systems, offering a advanced initial point to develop new models
 - Can be used in fields where the data is scarce, or where the training from scratch is not feasible
+
+## First Project - Implementing a Attention Mechanism in Python without any framework
