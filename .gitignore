@@ -3,4 +3,4 @@
 *.keras
 *.png
 *.csv
-/cpp/build
+projects/cpp/build
